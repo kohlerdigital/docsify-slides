@@ -1,19 +1,57 @@
-# Custom Width Separator
+# Le Big Data : Enjeux et Applications
 
-You can adjust the width separating the left and right side:
+## Introduction
 
-```
-<!-- slide:break-70 -->
-```
+Le Big Data en brefff
 
-![Random Kitten Image](https://placekitten.com/350/400)
+<!-- slide:break-50 -->
+<!-- slide:break -->
+- Le monde produit 2.5 quintillions d'octets de données chaque jour
+- 90% des données mondiales ont été créées ces deux dernières années
+- Enjeu majeur pour les entreprises et les États
 
-<!-- slide:break-70 -->
+## Qu'est-ce qu'une donnée ?
 
-# 
+"Une donnée est la représentation d'une information sous forme conventionnelle destinée à faciliter son traitement"
 
-You can see now the first section takes up 70% of the page width.
+<!-- slide:break-60 -->
 
-> **NOTE:** I use a blank header tag (`#`) to keep the height of the sections the same.
+Types de données :
+- 💹 Structurées (bases de données)
+- 📄 Semi-structurées (XML, JSON)
+- 📼 Non structurées (vidéos, images)
 
-![Random Kitten Image](https://placekitten.com/200/300)
+## Les 5V du Big Data
+
+Les trois premiers V
+
+<!-- slide:break-50 -->
+
+- Volume : Échelle massive des données
+- Vélocité : Rapidité de génération et d'analyse
+- Variété : Diversité des sources et formats
+
+## Applications par Secteur
+
+Domaines d'application
+
+<!-- slide:break-60 -->
+
+- Santé
+- Finance
+- Marketing
+- Transport
+- Industrie
+- etc.
+
+## Cas d'Étude : Netflix
+
+L'analyse des données chez Netflix
+
+<!-- slide:break-50 -->
+
+- Recommandations personnalisées
+- Optimisation du streaming
+- Production de contenu basée sur les données
+
+[etc...]
