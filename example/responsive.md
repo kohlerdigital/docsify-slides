@@ -1,3 +1,7 @@
+# a test
+with text
+---
+
 # Responsive Design
 
 On screens less than 768px, the two column layout collapses.
